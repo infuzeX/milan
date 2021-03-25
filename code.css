@@ -13723,14 +13723,14 @@ to turn off this for now...
 /************************************************************************************************************************/
 
 #headline{
-font-weight: 700;
-font-size: 25px;
+font-weight: 900;
+font-size: 48px;
 padding: 20px;
 }
 #sub-text{
-  font-weight: 700;
+  font-weight: 900;
   padding: 20px;
-  font-size: 17px;
+  font-size: 17.5px;
 }
 .top1{
   display: flex;
