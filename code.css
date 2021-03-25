@@ -975,7 +975,7 @@ html {
   font-weight: $text-font-weight;
   font-style: $text-font-style;
   font-size: $base-text-font-size - 1px;
-  line-height: 1.87;
+  /* line-height: 1.87; */
   color: $text-color;
   background: $background;
 }
@@ -13726,6 +13726,7 @@ to turn off this for now...
 font-weight: 900;
 font-size: 48px;
 padding: 20px;
+
 }
 #sub-text{
   font-weight: 900;
